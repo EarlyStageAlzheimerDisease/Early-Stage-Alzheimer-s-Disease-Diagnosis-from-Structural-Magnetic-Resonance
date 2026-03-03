@@ -1,0 +1,4 @@
+1) Dataset: -> Alzheimer’s Disease Dataset
+    Reference:
+        * https://www.kaggle.com/datasets/marcopinamonti/alzheimer-mri-4-classes-dataset (MRI)
+        * https://data.mendeley.com/datasets/ch87yswbz4/1  (MRI)
